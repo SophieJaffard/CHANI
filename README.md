@@ -26,9 +26,3 @@ The file 'hansolo.py' contains the functions needed in the other files.
 
 
 
-
-
-
-
-'hansolo.py' contains
-
